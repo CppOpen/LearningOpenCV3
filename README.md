@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+﻿## Learning OpenCV 3 책자 소스 사이트
 
-You can use the [editor on GitHub](https://github.com/CppOpen/LearningOpenCV3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+원래 책자의 소스는 [oreillymedia GitHub] (https://github.com/oreillymedia/Learning-OpenCV-3_examples)에서 받을 수 있습니다. 
+해당 GitHub는 책을 번역하는 과정에서 소스의 버그와 MSVC2015 버전에 맞게 프로젝트 파일과 데이터의 경로를 일부 변경했습니다.
+자세한 소스 컴파일 및 프로젝트를 만드는 과정은 동영상으로 녹화 예정입니다.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CppOpen/LearningOpenCV3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

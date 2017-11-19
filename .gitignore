@@ -1,0 +1,9 @@
+*.db
+*.suo
+*.pdb
+*.user
+*/*/*/Debug/*
+*/*/*/Release/*
+*/*/Debug/*
+*/*/Release/*
+*/*/*/ReadMe.txt
