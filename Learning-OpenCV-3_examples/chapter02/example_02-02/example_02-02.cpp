@@ -1,5 +1,4 @@
-// example_02-02.cpp : Defines the entry point for the console application.
-//
+// Example 2-2. Same as Example 2-1 but employing the ¡°using namespace¡± directive
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

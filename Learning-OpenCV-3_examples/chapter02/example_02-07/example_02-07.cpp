@@ -1,5 +1,5 @@
-// example_02-07.cpp : Defines the entry point for the console application.
-//
+// Example 2-7. The Canny edge detector writes its output to a single-channel (grayscale) image
+// 
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

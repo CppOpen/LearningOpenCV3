@@ -1,5 +1,4 @@
-// example_14-04.cpp : Defines the entry point for the console application.
-//
+// Example 14-4. Using the shape context distance extractor
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

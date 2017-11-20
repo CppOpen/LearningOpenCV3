@@ -1,4 +1,6 @@
-// example_15-05.cpp : Defines the entry point for the console application.
+// Example 15-5. Cleanup using connected components
+// This cleans up the foreground segmentation mask derived from calls
+// to backgroundDiff
 //
 
 #include "stdafx.h"

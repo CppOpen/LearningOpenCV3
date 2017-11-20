@@ -1,5 +1,5 @@
-// example_02-11.cpp : Defines the entry point for the console application.
-//
+// Example 2-11. A complete program to read in a color video and write out the log-polar-
+// transformed video
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
@@ -14,7 +14,6 @@ void help(char** argv) {
 		<< "\nThen read it with:\n ./example_02-10 ../vout.avi\n"
 		<< std::endl;
 }
-
 
 int main(int argc, char** argv) {
 

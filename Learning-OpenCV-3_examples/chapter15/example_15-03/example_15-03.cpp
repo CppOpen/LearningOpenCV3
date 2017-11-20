@@ -1,12 +1,9 @@
-// example_15-03.cpp : Defines the entry point for the console application.
-//
+//Example 15-3. Computing the on and off-diagonal elements of a variance/covariance model
 
 #define NOMINMAX
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
-
-
 
 #include <vector>
 #include <iostream>

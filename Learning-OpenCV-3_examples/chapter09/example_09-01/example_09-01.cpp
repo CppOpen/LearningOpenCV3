@@ -1,4 +1,4 @@
-// example_09-01.cpp : Defines the entry point for the console application.
+// Example 9-1. Creating a window and displaying an image in that window
 //
 
 #include "stdafx.h"

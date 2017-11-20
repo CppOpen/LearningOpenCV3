@@ -1,5 +1,4 @@
-// example_10-03.cpp : Defines the entry point for the console application.
-//
+// Example 10-3. Threshold versus adaptive threshold
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

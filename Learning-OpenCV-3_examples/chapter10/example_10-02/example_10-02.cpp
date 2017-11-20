@@ -1,5 +1,4 @@
-// example_10-02.cpp : Defines the entry point for the console application.
-//
+// Example 10-2. Alternative method to combine and threshold image planes
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

@@ -1,5 +1,4 @@
-// example_04-01.cpp : Defines the entry point for the console application.
-//
+// Example 4-1. Summation of a multidimensional array, done plane by plane
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

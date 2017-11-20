@@ -1,5 +1,4 @@
-// example_15-04.cpp : Defines the entry point for the console application.
-//
+//Example 15-4. Codebook algorithm implementation
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

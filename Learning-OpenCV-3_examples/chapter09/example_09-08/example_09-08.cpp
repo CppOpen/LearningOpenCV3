@@ -1,4 +1,4 @@
-// example_09-08.cpp : Defines the entry point for the console application.
+// Example 9-8. An example header file for our custom View class
 //
 
 #include "stdafx.h"

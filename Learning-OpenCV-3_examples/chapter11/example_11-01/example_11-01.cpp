@@ -1,5 +1,6 @@
-// example_11-01.cpp : Defines the entry point for the console application.
-//
+// Example 11-1. An affine transformation.
+// Maps the 3 points (0, 0), (0, height-1), (width-1, 0) specified in srcTri[] to
+// the specified points in array dstTri using a computed Affine Transform. 
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

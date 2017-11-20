@@ -1,5 +1,5 @@
-// example_12-01.cpp : Defines the entry point for the console application.
-//
+// Example 12-1. Using cv::dft() and cv::idft() to accelerate
+// the computation of convolutions 
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

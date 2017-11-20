@@ -1,5 +1,4 @@
-// example_09-02.cpp : Defines the entry point for the console application.
-//
+// Example 9-2. Toy program for using a mouse to draw boxes on the screen
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

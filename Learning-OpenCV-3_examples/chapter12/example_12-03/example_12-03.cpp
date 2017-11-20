@@ -1,5 +1,4 @@
-// example_12-03.cpp : Defines the entry point for the console application.
-//
+// Example 12-3. Using GrabCut for background removal
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

@@ -1,5 +1,5 @@
-// example_07-01.cpp : Defines the entry point for the console application.
-//
+// Example 7-1. Using the default random number generator to generate a pair of integers
+// and a pair of floating-point numbers
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

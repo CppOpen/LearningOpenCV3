@@ -1,5 +1,4 @@
-// example_09-04.cpp : Defines the entry point for the console application.
-//
+//Example 9-4. QT Backend test
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

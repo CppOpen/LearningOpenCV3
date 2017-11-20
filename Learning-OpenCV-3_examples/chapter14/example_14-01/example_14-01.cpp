@@ -1,5 +1,5 @@
-// example_14-01.cpp : Defines the entry point for the console application.
-//
+// Example 14-1. Finding contours based on a trackbar¡¯s location; the contours are
+// updated whenever the trackbar is moved
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

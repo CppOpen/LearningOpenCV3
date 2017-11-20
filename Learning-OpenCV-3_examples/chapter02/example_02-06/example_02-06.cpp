@@ -1,5 +1,5 @@
-// example_02-06.cpp : Defines the entry point for the console application.
-//
+// Example 2-6. Using cv::pyrDown() to create a new image that is half the width and
+// height of the input image
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

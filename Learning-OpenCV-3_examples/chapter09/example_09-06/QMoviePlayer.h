@@ -1,3 +1,5 @@
+//Example 9-7. The QMoviePlayer object header file QMoviePlayer.h
+//
 #pragma once
 
 #include <string>

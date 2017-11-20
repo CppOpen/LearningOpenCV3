@@ -1,5 +1,4 @@
-// example_13-01.cpp : Defines the entry point for the console application.
-//
+// Example 13-1. Histogram computation and display
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

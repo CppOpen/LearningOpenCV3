@@ -1,5 +1,4 @@
-// example_12-04.cpp : Defines the entry point for the console application.
-//
+// Example 12-4. Using Watershed for image segmentation
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

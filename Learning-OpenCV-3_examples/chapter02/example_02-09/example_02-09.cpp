@@ -1,5 +1,4 @@
-// example_02-09.cpp : Defines the entry point for the console application.
-//
+// Example 2-9. Getting and setting pixels in Example 2-8
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
@@ -14,7 +13,6 @@ void help(char** argv) {
 		<< argv[0] << " ../fruits.jpg\n"
 		<< std::endl;
 }
-
 
 int main(int argc, char** argv) {
 

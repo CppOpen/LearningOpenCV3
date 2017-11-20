@@ -1,5 +1,4 @@
-// example_13-03.cpp : Defines the entry point for the console application.
-//
+// Example 13-3. Template matching
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

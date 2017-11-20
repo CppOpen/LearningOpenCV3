@@ -1,5 +1,4 @@
-// example_04-03.cpp : Defines the entry point for the console application.
-//
+//Example 4-3. Printing all of the nonzero elements of a sparse array
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

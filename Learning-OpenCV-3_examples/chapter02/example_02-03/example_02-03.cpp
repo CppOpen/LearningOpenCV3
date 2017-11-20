@@ -1,5 +1,4 @@
-// example_02-03.cpp : Defines the entry point for the console application.
-//
+// Example 2-3. A simple OpenCV program for playing a video file from disk
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

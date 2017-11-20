@@ -1,5 +1,4 @@
-// example_04-04.cpp : Defines the entry point for the console application.
-//
+//Example 4-4. A better way to print a matrix
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

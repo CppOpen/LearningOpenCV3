@@ -1,5 +1,4 @@
-// example_04-02.cpp : Defines the entry point for the console application.
-//
+// Example 4-2. Summation of two arrays using the N-ary operator
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

@@ -1,4 +1,7 @@
-// example_09-03.cpp : Defines the entry point for the console application.
+//Example 9-3. Using a trackbar to create a ¡°switch¡± that the user can turn on and off;
+//this program plays a video and uses the switch to create a pause functionality
+//
+// An example program in which the user can draw boxes on the screen.
 //
 
 #include "stdafx.h"

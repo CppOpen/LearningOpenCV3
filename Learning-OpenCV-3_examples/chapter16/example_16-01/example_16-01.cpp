@@ -1,4 +1,4 @@
-// example_16-01.cpp : Defines the entry point for the console application.
+// Example 16-1. Pyramid L-K optical flow
 //
 
 #include "stdafx.h"

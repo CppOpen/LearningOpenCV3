@@ -1,5 +1,7 @@
-// example_18-01_from_disk.cpp : Defines the entry point for the console application.
-//
+// Example 18-1. Reading a chessboard¡¯s width and height, reading them from disk and calibrating 
+// the requested number of views, and calibrating the camera 
+
+
 #define WINDOWS
 #include "stdafx.h"
 #include "..\..\_opencv.h"

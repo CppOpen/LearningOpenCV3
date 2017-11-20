@@ -1,5 +1,5 @@
-// example_02-04.cpp : Defines the entry point for the console application.
-//
+//Example 2-4. Adding a trackbar slider to the basic viewer window for moving around
+//within the video file
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

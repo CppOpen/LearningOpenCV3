@@ -1,5 +1,6 @@
-// example_09-07.cpp : Defines the entry point for the console application.
-//
+//Example 9-7. An example program which takes a single argument
+//indicating a video file; that video file will be replayed inside of a wxWidgets object that
+//we will define, called WxMoviePlayer
 
 #include "stdafx.h"
 
@@ -20,7 +21,7 @@ IMPLEMENT_APP(MyApp);
 // When MyApp is initialized, do these things.
 //
 bool MyApp::OnInit() {
-	wxFrame* frame = new wxFrame(NULL, wxID_ANY, wxT("ch4_wx"));
+	wxFrame* frame = new wxFrame(NULL, wxID_ANY, wxT("ch9_wx"));
 	frame->Show(true);
 	WxMoviePlayer* mp = new WxMoviePlayer(
 		frame,

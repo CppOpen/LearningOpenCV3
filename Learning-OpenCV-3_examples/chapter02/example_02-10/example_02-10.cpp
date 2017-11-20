@@ -1,5 +1,5 @@
-// example_02-10.cpp : Defines the entry point for the console application.
-//
+// Example 2-10. The same object can load videos from a camera or a file
+// 
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
@@ -16,7 +16,6 @@ void help(char** argv) {
 		<< argv[0] << " ../tree.avi\n"
 		<< std::endl;
 }
-
 
 int main(int argc, char** argv) {
 	help(argv);	

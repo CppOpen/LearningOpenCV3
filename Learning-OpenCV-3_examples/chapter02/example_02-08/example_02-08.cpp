@@ -1,5 +1,5 @@
-// example_02-08.cpp : Defines the entry point for the console application.
-//
+// Example 2-8. Combining the pyramid down operator (twice) and the Canny
+// subroutine in a simple image pipeline
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
@@ -14,7 +14,6 @@ void help(char** argv) {
 		<< argv[0] << " ../fruits.jpg\n"
 		<< std::endl;
 }
-
 
 int main(int argc, char** argv) {
 

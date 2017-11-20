@@ -1,4 +1,4 @@
-// example_08-01.cpp : Defines the entry point for the console application.
+// Example 8-1. Unpacking a four-character code to identify a video codec
 //
 
 #include "stdafx.h"
@@ -15,7 +15,6 @@ void help(char** argv) {
 		<< argv[0] << " ../tree.avi\n"
 		<< endl;
 }
-
 
 int main(int argc, char** argv) {
 	if (argc != 2) {

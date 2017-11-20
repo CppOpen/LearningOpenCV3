@@ -1,5 +1,5 @@
-// example_05-01.cpp : Defines the entry point for the console application.
-//
+// Example 5-1. Complete program to alpha-blend the ROI starting at (0,0) in src2 with the ROI starting at (x,y) in src1
+// alphablend <imageA> <image B> <x> <y> <<alpha> <beta>
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
@@ -18,8 +18,6 @@ void help(const char **argv) {
 		<< " ./example_05-01 ../faceTemplate.jpg ../faces.png 230 155 0.8 0.2\n"
 		<< endl;
 }
-
-
 
 int main(int argc, const char** argv)
 {

@@ -1,9 +1,7 @@
-// example_15-02.cpp : Defines the entry point for the console application.
-//
-
-#include "stdafx.h"
+// Example 15-2. Learning a background model to identify foreground pixels
 #define NOMINMAX
 
+#include "stdafx.h"
 #include "..\..\_opencv.h"
 
 #include <iostream>

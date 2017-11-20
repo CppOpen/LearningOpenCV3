@@ -1,5 +1,4 @@
-// example_17-01.cpp : Defines the entry point for the console application.
-//
+// Example 17-1. Kalman filter example code
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

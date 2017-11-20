@@ -1,4 +1,5 @@
-// example_15-01.cpp : Defines the entry point for the console application.
+//Example 15-1. Reading out the RGB values of all pixels in one row of a video and
+// accumulating those values into three separate comma separated files
 //
 
 #include "stdafx.h"

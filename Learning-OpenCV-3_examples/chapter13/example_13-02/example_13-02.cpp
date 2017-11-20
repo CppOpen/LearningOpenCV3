@@ -1,5 +1,6 @@
-// example_13-02.cpp : Defines the entry point for the console application.
-//
+// Example 13-2. Creating signatures from histograms for EMD; note that this code is the
+// source of the data in Table 13-1, in which the hand histogram is compared in different
+// lighting conditions
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

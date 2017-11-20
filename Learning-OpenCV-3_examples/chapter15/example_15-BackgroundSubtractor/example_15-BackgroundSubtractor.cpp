@@ -1,13 +1,14 @@
-// example_15-BackgroundSubtractor.cpp : Defines the entry point for the console application.
-//
+// EXTRA Example 15-6, using OpenCV's background subtractor class.  Modified by Gary Bradski, 6/4/2017
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
+
 //C
 #include <stdio.h>
 //C++
 #include <iostream>
 #include <sstream>
+
 using namespace cv;
 using namespace std;
 // Global variables
@@ -20,6 +21,7 @@ int keyboard; //input from keyboard
 void help();
 void processVideo(char* videoFilename, int train);
 void processImages(char* firstFrameFilename, int train);
+
 void help()
 {
 	cout
@@ -41,6 +43,7 @@ void help()
 		<< "--------------------------------------------------------------------------" << endl
 		<< endl;
 }
+
 int main(int argc, char* argv[])
 {
 	//print help information
@@ -78,6 +81,7 @@ int main(int argc, char* argv[])
 	destroyAllWindows();
 	return EXIT_SUCCESS;
 }
+
 void processVideo(char* videoFilename, int train) {
 	//create the capture object
 	VideoCapture capture(videoFilename);
@@ -139,6 +143,7 @@ void processVideo(char* videoFilename, int train) {
 	//delete capture object
 	capture.release();
 }
+
 void processImages(char* fistFrameFilename, int train) {
 	//read the first file of the sequence
 	frame = imread(fistFrameFilename);

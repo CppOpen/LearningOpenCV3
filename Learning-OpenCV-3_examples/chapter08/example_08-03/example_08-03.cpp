@@ -1,4 +1,4 @@
-// example_08-03.cpp : Defines the entry point for the console application.
+// Example 8-3. Using cv::FileStorage to read a .yml file
 //
 
 #include "stdafx.h"

@@ -1,5 +1,5 @@
-// example_12-02.cpp : Defines the entry point for the console application.
-//
+// Example 12-2. Using cv::HoughCircles() to return a sequence of circles found in a
+// grayscale image
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

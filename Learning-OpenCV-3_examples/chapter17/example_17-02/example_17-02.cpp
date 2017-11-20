@@ -1,5 +1,4 @@
-// // Example 17-2. Farneback optical flow example code
-//
+// Example 17-2. Farneback optical flow example code
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

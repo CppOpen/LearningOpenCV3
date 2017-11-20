@@ -1,7 +1,9 @@
 #pragma once
+
 #include "..\..\_opencv.h"
 #include "wx/wx.h"
 #include <string>
+
 #define TIMER_ID 0
 using namespace std;
 class WxMoviePlayer : public wxWindow {
@@ -27,5 +29,3 @@ private:
 protected:
 	DECLARE_EVENT_TABLE();
 };
-
-

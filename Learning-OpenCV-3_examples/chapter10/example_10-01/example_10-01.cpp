@@ -1,5 +1,4 @@
-// example_10-01.cpp : Defines the entry point for the console application.
-//
+//Example 10-1. Using cv::threshold() to sum three channels of an image
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

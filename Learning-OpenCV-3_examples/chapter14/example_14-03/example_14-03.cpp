@@ -1,5 +1,4 @@
-// example_14-03.cpp : Defines the entry point for the console application.
-//
+// Example 14-3. Drawing labeled connected components
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

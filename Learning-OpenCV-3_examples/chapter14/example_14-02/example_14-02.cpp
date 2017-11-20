@@ -1,5 +1,4 @@
-// example_14-02.cpp : Defines the entry point for the console application.
-//
+// Example 14-2. Finding and drawing contours on an input image
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

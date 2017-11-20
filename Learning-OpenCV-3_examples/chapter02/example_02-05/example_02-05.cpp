@@ -1,9 +1,7 @@
-// example_02-05.cpp : Defines the entry point for the console application.
-//
+// Example 2-5. Loading and then smoothing an image before it is displayed on the screen
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
-
 
 void help(char** argv) {
 	std::cout << "\n"

@@ -1,5 +1,6 @@
-// example_11-02.cpp : Defines the entry point for the console application.
-//
+// Example 11-2. Code for perspective transformation
+// Compute a perspective transformation between the 4 src control points
+// in srcQuad to 4 dst control points in dstQuad and apply it the image.
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"

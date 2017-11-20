@@ -1,5 +1,7 @@
-// example_11-03.cpp : Defines the entry point for the console application.
-//
+// Example 11-3. Log-polar transform example
+// Log-polar transform example.
+// This demonstrates the forward and backward (inverse) log-polar
+// transform.
 
 #include "stdafx.h"
 #include "..\..\_opencv.h"
