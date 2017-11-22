@@ -14,10 +14,10 @@
 
 * install 폴더(300MB 이하 용량)
 
-1.OpenCV의 install 프로젝트로 컴파일된 결과 폴더(include 폴더와 lib 폴더)
-2.WITH_QT 항목을 체크하면 QT 폴더가 필요하다.(9장 예제에서 사용)
-3.OPENCV_ENABLE_NONFREE 옵션을 체크한다.(16장 예제에서 사용)
-4. WITH_OPENGL 옵션 체크한다.(9장 예제에서 사용)
+>1. OpenCV의 install 프로젝트로 컴파일된 결과 폴더(include 폴더와 lib 폴더)
+>2. WITH_QT 항목을 체크하면 QT 폴더가 필요하다.(9장 예제에서 사용)
+>3. OPENCV_ENABLE_NONFREE 옵션을 체크한다.(16장 예제에서 사용)
+>4. WITH_OPENGL 옵션 체크한다.(9장 예제에서 사용)
 
 
 * QT\msvc2015 폴더
