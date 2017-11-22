@@ -8,21 +8,21 @@
 # 컴파일 환경 구축
 동일한 msvc 버전으로 컴파일한 의존 라이브러리를 다운받은 github 폴더의 상위 폴더에 다음과 같은 폴더를 구성해준다.
 
-1.bin
+* bin 폴더
 의존한 라이브러리에서 만들어진 dll 파일이 한 곳에 모인 폴더, 250MB(openCV만)~600MB(QT추가)
 
-2.install 
+* install 폴더
 OpenCV의 install 프로젝트로 컴파일된 결과 폴더(include 폴더와 lib 폴더)
 WITH_QT 항목을 체크하면 QT 폴더가 필요하다.(9장 예제에서 사용)
 OPENCV_ENABLE_NONFREE 옵션을 체크한다.(16장 예제에서 사용)
 WITH_OPENGL 옵션 체크한다.(9장 예제에서 사용)
 300MB 이하 용량
 
-3.QT\msvc2015
+* QT\msvc2015 폴더
 QT를 설치한 폴더에 mscv2015 폴더를 그래도 복사해준다. (x86버전) (9장 예제에서 사용), 10GB 용량.
 
-4.WTL
+* WTL 폴더
 설치된 WTL 폴더를 그대로 복사해준다. (9장 예제에서 사용), 5MB 이하
 
-5.wxWidgets
+* wxWidgets 폴더
 wxWidgets를 컴파일해서 폴더 전체를 복사해준다. (9장 예제에서 사용) 컴파일후 4GB 용량.
