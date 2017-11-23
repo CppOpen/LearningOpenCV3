@@ -196,4 +196,5 @@
 #endif
 
 #pragma comment(lib,"Opengl32.lib")
+#pragma comment(lib,"Glu32.lib")
 #include <opencv2/core/opengl.hpp>
