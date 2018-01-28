@@ -23,16 +23,13 @@ int main(int argc, char** argv) {
 		return 0;
 	}
 
-	Mat img = imread(argv[1], -1);
+	Mat img = imread(argv[1], cv::IMREAD_UNCHANGED);
 
 	if (img.empty()) return -1;
 
 	namedWindow("Example 2-2", cv::WINDOW_AUTOSIZE);
-
 	imshow("Example 2-2", img);
-
 	waitKey(0);
-
 	destroyWindow("Example 2-2");
 }
 

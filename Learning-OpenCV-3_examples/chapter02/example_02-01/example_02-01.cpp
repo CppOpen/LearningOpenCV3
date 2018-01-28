@@ -20,14 +20,15 @@ int main(int argc, char** argv) {
 		return 0;
 	}
 
-	cv::Mat img = cv::imread(argv[1], -1);
+	cv::Mat img = cv::imread(argv[1], cv::IMREAD_UNCHANGED);
 
 	if (img.empty()) return -1;
 
-	cv::namedWindow("Example 2-1", cv::WINDOW_AUTOSIZE);
-	cv::imshow("Example 2-1", img);
+	constexpr const char* wname = "Example 2-1";
+	cv::namedWindow(wname, cv::WINDOW_AUTOSIZE);
+	cv::imshow(wname, img);
 	cv::waitKey(0);
-	cv::destroyWindow("Example 2-1");
+	cv::destroyWindow(wname);
 
 	return 0;
 }

@@ -1,8 +1,4 @@
-// Example 22-1. Detecting and drawing faces
-
-#include "stdafx.h"
 #include "..\..\_opencv.h"
-
 #include <vector>
 #include <iostream>
 #include <cstdlib>

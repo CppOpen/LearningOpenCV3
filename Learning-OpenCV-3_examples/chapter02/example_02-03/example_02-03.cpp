@@ -16,7 +16,6 @@ void help(char** argv) {
 
 
 int main(int argc, char** argv) {
-
 	if (argc != 2) {
 		help(argv);
 		return 0;
