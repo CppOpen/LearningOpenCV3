@@ -3,7 +3,7 @@
 #  pragma warning(disable:4244)
 
 #ifdef _MSC_VER
-#include <Windows.h>
+	#include <Windows.h>
 #endif
 
 #include <opencv2/opencv.hpp>
@@ -11,11 +11,11 @@
 #define _CV_VERSION_STR  CVAUX_STR(CV_VERSION_MAJOR)  CVAUX_STR(CV_VERSION_MINOR)  CVAUX_STR(CV_VERSION_REVISION)
 
 #ifdef _MSC_VER
-#define DLL_EXT  ".lib"
-#define HEAD_DLL ""
+	#define DLL_EXT  ".lib"
+	#define HEAD_DLL ""
 #else
-#define HEAD_DLL "."
-#define DLL_EXT  ".dylib"
+	#define HEAD_DLL "."
+	#define DLL_EXT  ".dylib"
 #endif
 
 #ifdef _DEBUG
