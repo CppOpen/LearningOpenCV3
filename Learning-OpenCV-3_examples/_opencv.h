@@ -6,10 +6,16 @@
 
 #define _CV_VERSION_STR  CVAUX_STR(CV_VERSION_MAJOR)  CVAUX_STR(CV_VERSION_MINOR)  CVAUX_STR(CV_VERSION_REVISION)
 
-#ifdef _DEBUG
-#define _CV_VERSION   _CV_VERSION_STR "d.lib"
+#ifdef _MSC_VER
+#define DLL_EXT  ".lib"
 #else
-#define _CV_VERSION  _CV_VERSION_STR ".lib"
+#define DLL_EXT  ".dylib"
+#endif
+
+#ifdef _DEBUG
+#define _CV_VERSION   _CV_VERSION_STR "d" DLL_EXT
+#else
+#define _CV_VERSION  _CV_VERSION_STR  DLL_EXT
 #endif
 
 
