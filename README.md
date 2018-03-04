@@ -33,3 +33,16 @@ QT를 설치한 폴더에 mscv2015 폴더를 그래도 복사해준다. (x86버�
 * __wxWidgets 폴더(컴파일후 4GB 용량.)__
 
 wxWidgets를 컴파일해서 폴더 전체를 복사해준다. (9장 예제에서 사용) .
+## 관련링크
+- [유튜브 강의 동영상](https://www.youtube.com/playlist?list=PLUDq35yka-fuPQGJi1m1cuCFZ914sDT1S)
+- [스터디 그룹](https://www.facebook.com/groups/OpenCPP/)
+
+
+## 참여자
+#### 윤훈남, 나명진, 신재익, [유원상](https://github.com/yws6909)
+<div float="left">
+  <img src="./imgs/2.jpg" width="20%" height="20%" />
+  <img src="./imgs/3.jpg" width="20%" height="20%" />
+   <img src="./imgs/4.jpg" width="20%" height="20%" />
+  <img src="./imgs/1.jpg" width="20%" height="20%" />
+</div>
