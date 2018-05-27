@@ -39,7 +39,7 @@ wxWidgets를 컴파일해서 폴더 전체를 복사해준다. (9장 예제에�
 
 
 ## 참여자
-#### 윤훈남, 나명진, 신재익, [유원상](https://github.com/yws6909)
+#### 윤훈남, 나명진, [신재익](https://jishin86.github.io/about), [유원상](https://github.com/yws6909)
 <div float="left">
   <img src="./imgs/2.jpg" width="20%" height="20%" />
   <img src="./imgs/3.jpg" width="20%" height="20%" />
